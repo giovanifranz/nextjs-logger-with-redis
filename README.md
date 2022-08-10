@@ -10,7 +10,7 @@ npm install
 npm run dev
 ```
 
-### Visite:
+### Demo:
 
 <br />
 
